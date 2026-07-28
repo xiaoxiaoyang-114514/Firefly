@@ -1,7 +1,7 @@
 ---
 title: 我的个人博客
 published: 2026-07-28
-pinned: true
+pinned: false
 description: 第一篇介绍
 tags: [博客]
 category: 文章

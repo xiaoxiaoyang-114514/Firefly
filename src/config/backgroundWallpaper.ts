@@ -75,20 +75,20 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 是否启用主页横幅文字
 			enable: true,
 			// 主页横幅主标题
-			title: "Lovely firefly!",
+			title: "小小羊的博客",
 			// 主页横幅主标题字体大小
-			titleSize: "4.5rem",
+			titleSize: "3.0rem",
 			// 主页横幅副标题
 			subtitle: [
-				"In Reddened Chrysalis, I Once Rest",
-				"From Shattered Sky, I Free Fall",
-				"Amidst Silenced Stars, I Deep Sleep",
-				"Upon Lighted Fyrefly, I Soon Gaze",
-				"From Undreamt Night, I Thence Shine",
-				"In Finalized Morrow, I Full Bloom",
+				"你好，我是小小羊",
+				"我的个人博客",
+				"一个奇奇怪怪的网站",
+				"有一些奇奇怪怪的文章",
+				"你可以在这里查阅一些东西",
+				"祝你开心",
 			],
 			// 主页横幅副标题字体大小
-			subtitleSize: "1.5rem",
+			subtitleSize: "1.0rem",
 			typewriter: {
 				// 是否启用打字机效果
 				// 打字机开启 → 循环显示所有副标题

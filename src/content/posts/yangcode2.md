@@ -1,10 +1,10 @@
 ---
 title: Yangcode2简明指南
 published: 2026-07-28
-pinned: true
+pinned: false
 description: 基于Turbowarp的伪编程语言
 tags: [博客, Scratch]
-category: 文章
+category: 文档
 image: ./images/firefly1.avif
 slug: yangcode2
 ---
