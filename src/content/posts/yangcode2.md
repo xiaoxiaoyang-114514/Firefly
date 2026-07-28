@@ -5,7 +5,6 @@ pinned: false
 description: 基于Turbowarp的伪编程语言
 tags: [博客, Scratch]
 category: 文档
-image: ./images/firefly1.avif
 slug: yangcode2
 ---
 
@@ -255,5 +254,7 @@ sleep <xxx>;
 ```Yangcode2
 sleep 1000;
 ```
+
+***
 
 
