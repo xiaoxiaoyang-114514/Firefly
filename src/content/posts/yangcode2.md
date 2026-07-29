@@ -13,7 +13,6 @@ slug: yangcode2
 ~~(可是实际上一点也不简明)~~
 
 
-
 ## 前言
 
 Yangcode2是用Scratch（Turbowarp）开发的一个**伪**编程语言，仅供娱乐用途，补药当真（
@@ -254,6 +253,7 @@ sleep <xxx>;
 ```Yangcode2
 sleep 1000;
 ```
+
 
 ***
 

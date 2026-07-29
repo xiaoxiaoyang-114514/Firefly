@@ -27,6 +27,11 @@ slug: berryeditor-01
 4. 颜色主题（新增`BE绿`和`天依蓝`）
 
 ***
+## 在线尝试
+
+前往
+
+http://editor.xiaoxiaoyang.dpdns.org/
 
 ## 加入开发和反馈
 
